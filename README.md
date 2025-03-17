@@ -20,4 +20,4 @@ python3 scripts/script_name.py
 
 [^1]: Department of Applied Mathematics and Statistics. Universidad Politécnica de Cartagena, Campus Muralla del Mar, 30202, Cartagena (Murcia), Spain
 # fisher_stephan_control
-Python codes for the paper Controllability of the Fisher-Stephan system by Idriss Boutaayamou, Fouad Et-tahri, Lahcen Maniar, Francisco Periago
+

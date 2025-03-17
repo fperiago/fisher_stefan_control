@@ -13,11 +13,10 @@ git clone https://github.com/fperiago/fisher_stefan_control.git
 ```
 2. Run any of the scripts by:
 ```
-python3 scripts/script_name.py
-``` 
+python3 scripts/script_name.py`` 
 
 
 
 [^1]: Department of Applied Mathematics and Statistics. Universidad Politécnica de Cartagena, Campus Muralla del Mar, 30202, Cartagena (Murcia), Spain
-# fisher_stephan_control
+
 
